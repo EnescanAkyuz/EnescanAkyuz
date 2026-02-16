@@ -13,7 +13,7 @@
  🔭 Building health-tech, mobile and web products  
  🌱 Learning Docker, Cloud, DevOps, scalable backend systems  
  💬 Ask me about Kotlin, Android, React, Node.js, Firebase, AI projects  
- ⚡ Projects shown at Money 20/20 Amsterdam & Cannes-nominated system  
+ ⚡ Projects shown at Money 20/20 Amsterdam
 
 </div>
 
@@ -48,31 +48,6 @@
 ⚙️ Backend, REST APIs, Firebase, MySQL  
 🧠 AI, Computer Vision, health data systems  
 🧩 MVP → Product → Scale mindset  
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=EnescanAkyuz&show_icons=true&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=EnescanAkyuz&theme=react&border_radius=10" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnescanAkyuz&layout=compact&theme=react&border_radius=10" />
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🏆 Highlights</h2>
-<div align="center">
-
-🏥 Health-tech apps: Haloscape, MyMeds, Routinly, Heartivia, Stresease  
-🏁 TÜBİTAK Efficiency Challenge – Software Lead  
-🎯 Projects shown at Money 20/20 Amsterdam  
-🏅 Cannes-nominated visitor tracking system  
-⚡ 3+ years of real product development  
 
 </div>
 
